@@ -1,4 +1,4 @@
-# NPP_HLSL_Syntax
+# NPP_3Dmigoto_Syntax
 Notepad++'s HLSL syntax file designed for 3dmigoto dumped shader analysis.
 Set Notepad++ to dark mode and switch to our UDL to use.
 and then we can analyse 3Dmigoto related file easier.
